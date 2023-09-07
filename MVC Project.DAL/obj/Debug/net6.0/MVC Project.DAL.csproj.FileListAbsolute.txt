@@ -1,0 +1,36 @@
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\bin\Debug\net6.0\MVC Project.DAL.deps.json
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\bin\Debug\net6.0\MVC Project.DAL.dll
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\bin\Debug\net6.0\MVC Project.DAL.pdb
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.dll
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\refint\MVC Project.DAL.dll
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.pdb
+C:\Users\Mohamed\Desktop\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\ref\MVC Project.DAL.dll
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\bin\Debug\net6.0\MVC Project.DAL.deps.json
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\bin\Debug\net6.0\MVC Project.DAL.dll
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\bin\Debug\net6.0\MVC Project.DAL.pdb
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.dll
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\refint\MVC Project.DAL.dll
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.pdb
+C:\Users\Mohamed\Desktop\ASP.net back end\07 ASP.NET Core MVC\Session 06\Assignements\MVC Project Solution\MVC Project.DAL\obj\Debug\net6.0\ref\MVC Project.DAL.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\bin\Debug\net6.0\MVC Project.DAL.deps.json
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\bin\Debug\net6.0\MVC Project.DAL.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\bin\Debug\net6.0\MVC Project.DAL.pdb
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\obj\Debug\net6.0\refint\MVC Project.DAL.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\obj\Debug\net6.0\MVC Project.DAL.pdb
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\MVC-Dashboard\MVC Project.DAL\obj\Debug\net6.0\ref\MVC Project.DAL.dll
