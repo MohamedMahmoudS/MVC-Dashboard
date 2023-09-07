@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace MVC_Project.PL.Controllers
 {
-	//[Authorize]
+	[Authorize]
 	public class EmployeeController : Controller
     {
         //private readonly IEmployeeRepository _EmployeeRepository;
